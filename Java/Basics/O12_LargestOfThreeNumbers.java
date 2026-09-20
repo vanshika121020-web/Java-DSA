@@ -1,4 +1,4 @@
-public class LargestOfThreeNumbers{
+public class O12_LargestOfThreeNumbers{
     public static void main(String[] args){
 
         int a = 12;
