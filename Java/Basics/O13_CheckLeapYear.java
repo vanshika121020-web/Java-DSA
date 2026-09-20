@@ -17,7 +17,7 @@ public class O13_CheckLeapYear{
             System.out.println("Leap year");
 
         }else{
-            System.out.println("Not a leap year")
+            System.out.println("Not a leap year");
         }
     }
 }
